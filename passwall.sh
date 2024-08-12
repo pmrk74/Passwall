@@ -77,8 +77,6 @@ sleep 2
 opkg install dnsmasq-full
 sleep 3
 opkg install unzip
-sleep 2
-opkg install luci-app-passwall
 sleep 3
 opkg install ipset
 sleep 2
